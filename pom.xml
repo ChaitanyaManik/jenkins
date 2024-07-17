@@ -34,7 +34,7 @@
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.7.0</muleVersion>
 						<username>Chaitanyamk</username>
-						<password>Chaitanya@12@</password>
+						<password>Chaitanya@12</password>
 						<applicationName>jenkins</applicationName>
 						<environment>Sandbox</environment>
 						<region>us-east-1</region>
